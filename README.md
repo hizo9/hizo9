@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/hizo9/hizo9/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h1 align="center">👋 - Hey there!</h1>
 
 ###
