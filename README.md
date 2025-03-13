@@ -1,14 +1,6 @@
-<img src="https://raw.githubusercontent.com/hizo9/hizo9/output/snake.svg" alt="Snake animation" />
-
-###
+<br clear="both">
 
 <h1 align="center">👋 - Hey there!</h1>
-
-###
-
-<div align="center">
-  <img height="250" src="https://i.giphy.com/8hmCdMaXUewzcroADq.webp"  />
-</div>
 
 ###
 
@@ -27,6 +19,16 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<div align="center">
+  <img height="250" src="https://i.giphy.com/8hmCdMaXUewzcroADq.webp"  />
+</div>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hizo9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=true&custom_title=Programming%20Language" height="150" alt="languages graph"  />
