@@ -4,6 +4,10 @@
 
 ###
 
+<h4 align="center">just a highschool student interested in computers</h4>
+
+###
+
 <br clear="both">
 
 <div align="center">
