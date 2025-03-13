@@ -3,6 +3,13 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hizo9&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hizo9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://discordid.netlify.app/?id=548433662174298125" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -17,15 +24,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hizo9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hizo9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=true" height="150" alt="languages graph"  />
+  <img height="250" src="https://i.giphy.com/8hmCdMaXUewzcroADq.webp"  />
 </div>
 
 ###
 
-<img align="left" height="250" src="https://i.giphy.com/8hmCdMaXUewzcroADq.webp"  />
-
-###
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/hizo9/hizo9/output/snake.svg" alt="Snake animation" />
 
