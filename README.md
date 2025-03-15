@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">just a highschool student interested in computers</h4>
+<h4 align="center">im interested in computers</h4>
 
 ###
 
