@@ -1,10 +1,10 @@
 <br clear="both">
 
-<h1 align="center">[👋] @hizo9 - hello world</h1>
+<h1 align="center">[👋] hello world</h1>
 
-###
+###e
 
-<h3 align="center">i like computers</h3>
+<h3 align="center">repo mostly private</h3>
 
 ###
 
